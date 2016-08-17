@@ -1,0 +1,5 @@
+mailgun api key: mailgun api key here.
+from first name: First
+from last name: Last
+from email address: you@domain.com
+to email: mailinglist@domain.com
