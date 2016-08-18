@@ -1,5 +1,6 @@
-mailgun api key: mailgun api key here.
+mailgun api key: mailgun-api-key-for-domain
+mailgun domain name: mailgun-domain-setup
 from first name: First
 from last name: Last
 from email address: you@domain.com
-to email: mailinglist@domain.com
+to email: mailing-list@email.com

@@ -1,5 +1,9 @@
-subject: subject here. 
+subject: Yo. Subject here. 
 
 copy/paste body below dashed line below
 ---------------------------------------
-put body here. yo man.
+Email body here. 
+
+You can have many lines. 
+
+You can include links: https://google.com but no HTML: <a href="htts://google.com">click me!</a>
